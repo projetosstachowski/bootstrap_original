@@ -1,3 +1,3 @@
 # Link da primeira versão do site:
 
-# https://projetosstachowski.github.io/bootstrap_original
+# http://projetosstachowski.github.io/bootstrap_original
